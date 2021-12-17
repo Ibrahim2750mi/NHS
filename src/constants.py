@@ -1,0 +1,1 @@
+SPRITE_SCALING = 1
